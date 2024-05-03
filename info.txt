@@ -1,0 +1,40 @@
+chrome mobile browser
+{
+  host: '192.168.1.108:3000',
+  connection: 'keep-alive',                                                                                                       hange;v=b3;q=0.7',
+  'cache-control': 'max-age=0',
+  dnt: '1',
+  'upgrade-insecure-requests': '1',
+  'user-agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36',  accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'accept-encoding': 'gzip, deflate',
+  'accept-language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7',
+  'if-none-match': 'W/"c-oDmV4Tkl1/YIhptZQuk1+okMWB0"'
+}
+
+===============================================================================
+from vk, but in mobileBrowser
+{
+  host: '192.168.1.108:3000',
+  connection: 'keep-alive',
+  'cache-control': 'max-age=0',
+  dnt: '1',
+  'upgrade-insecure-requests': '1',
+  'user-agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36',  accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',                                                                                                                hange;v=b3;q=0.7',
+  referer: 'https://away.vk.com/',
+  'accept-encoding': 'gzip, deflate',
+  'accept-language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7',
+  'if-none-match': 'W/"c-oDmV4Tkl1/YIhptZQuk1+okMWB0"'
+}
+
+===============================================================================
+telegram webview
+{
+  host: '192.168.1.108:3000',
+  connection: 'keep-alive',
+  dnt: '1',
+  'upgrade-insecure-requests': '1',
+  'user-agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36',  accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'accept-encoding': 'gzip, deflate',                                                                                             hange;v=b3;q=0.7',
+  'accept-language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7',
+  'if-none-match': 'W/"c-oDmV4Tkl1/YIhptZQuk1+okMWB0"'
+}
